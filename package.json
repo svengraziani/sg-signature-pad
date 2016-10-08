@@ -1,6 +1,6 @@
 {
   "name": "sg-signature-pad",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SignaturePad.js portation to es6/webpack",
   "main": "index.js",
   "scripts": {
