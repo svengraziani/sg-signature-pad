@@ -33,6 +33,5 @@ Add the module to your app
 ```
 
 ## Todo
-* implement the "clear" method to reset the canvas
 * test on touch devices
 
