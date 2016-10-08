@@ -27,6 +27,7 @@ Add the module to your app
 
 ### Component markup
  The component stores the signature as base64 encoded image string into the variable passed as "model" param.
+ The signature pad dimensions get defined by the "height" and "width" param.
 ```html
   <sg-signature-pad model="$ctrl.signatureModel" height="(int)" width="(int)"></sg-signature-pad>
 ```
