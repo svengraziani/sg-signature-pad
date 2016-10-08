@@ -11,16 +11,17 @@ Based on:
 ##Installation
 
 Install this module using npm
-  npm install sg-signature-pad --save
+
+    npm install sg-signature-pad --save
   
 Add the module to your app
 
-  import angular from 'angular';
-  import sgSignaturePad from 'sg-signature-pad';
+    import angular from 'angular';
+    import sgSignaturePad from 'sg-signature-pad';
     
-  const yourApp = angular.module('yourApp', [sgSignaturePad]).name;
+    const yourApp = angular.module('yourApp', [sgSignaturePad]).name;
   
-  export default yourApp;
+    export default yourApp;
   
 ## Usage
 
