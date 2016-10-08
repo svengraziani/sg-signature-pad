@@ -30,6 +30,7 @@ class SignaturePadController{
     }
 
     onTouchStart(){
+        alert("touch");
         this.$scope.$apply( ()=> this.$scope.notifyDrawing({drawing: true}));
         return this;
     }
@@ -81,6 +82,7 @@ class SignaturePadController{
     }
 
     clear(){
+
         this.signaturePadCanvas.clear();
         this.dataUrl = undefined;
     }
