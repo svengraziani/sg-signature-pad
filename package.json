@@ -1,0 +1,25 @@
+{
+  "name": "sg-signature-pad",
+  "version": "1.0.0",
+  "description": "SignaturePad.js portation to es6/webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svengraziani/sg-signature-pad.git"
+  },
+  "keywords": [
+    "signature",
+    "pad",
+    "angular",
+    "component"
+  ],
+  "author": "Sven Graziani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svengraziani/sg-signature-pad/issues"
+  },
+  "homepage": "https://github.com/svengraziani/sg-signature-pad#readme"
+}
