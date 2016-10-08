@@ -17,7 +17,7 @@ Install this module using npm
 Add the module to your app
 
     import angular from 'angular';
-    import sgSignaturePad from 'sg-signature-pad';
+    import sgSignaturePad from 'sg-signature-pad/lib/index';
     
     const yourApp = angular.module('yourApp', [sgSignaturePad]).name;
   
