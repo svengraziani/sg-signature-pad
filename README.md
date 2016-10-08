@@ -17,7 +17,7 @@ Install this module using npm
 Add the module to your app
 
     import angular from 'angular';
-    import sgSignaturePad from 'sg-signature-pad';
+    import sgSignaturePad from 'sg-signature-pad/lib/index';
     
     const yourApp = angular.module('yourApp', [sgSignaturePad]).name;
   
@@ -33,6 +33,5 @@ Add the module to your app
 ```
 
 ## Todo
-* implement the "clear" method to reset the canvas
 * test on touch devices
 
