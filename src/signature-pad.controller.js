@@ -30,7 +30,6 @@ class SignaturePadController{
     }
 
     onTouchStart(){
-        alert("touch");
         this.$scope.$apply( ()=> this.$scope.notifyDrawing({drawing: true}));
         return this;
     }
