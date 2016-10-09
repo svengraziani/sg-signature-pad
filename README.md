@@ -5,7 +5,7 @@ SignaturePad.js portation to Angular 1.5 Component
 Based on: 
   *   [szimek signature pad](https://github.com/szimek/signature_pad/) 
   *   [legalthings Angular signature](https://github.com/legalthings/angular-signature/blob/master/README.md)
-  *   [angular-web-pack-workflow] (https://github.com/preboot/angular-webpack)
+  *   [angular-web-pack-workflow] (https://github.com/preboot/angular-webpack/)
 
 
 ##Installation
